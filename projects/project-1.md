@@ -11,7 +11,7 @@ summary: I developed a program that runs SHA-1 encryption on input files.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="akuloloia.github.io/images/388x208xsshot-5.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.1Ribf4Jo_X.png">
+  <img class="ui image" src="../images/388x208xsshot-5.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.1Ribf4Jo_X.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">

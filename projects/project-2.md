@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: akuloloia.github.io/images/download.jpg
-title: Vacay
+title: Phonebook
 permalink: projects/Phonebook
 date: 2015
 labels:

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: akuloloia.github.io/images/388x208xsshot-5.png.pagespeed.gp+jp+jw+pj+js+rj+rp+rw+ri+cp+md.ic.1Ribf4Jo_X.png
+image: images/sha.png
 title: SHA-1 Encryption
 permalink: projects/SHA-1
 date: 2015

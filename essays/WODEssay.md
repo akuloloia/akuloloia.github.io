@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: WOD can I do?
+title: Javascript Under Pressure
 date: 2016-08-26
 labels:
   - Javascript

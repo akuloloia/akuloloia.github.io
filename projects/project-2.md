@@ -6,7 +6,7 @@ title: Phonebook
 permalink: projects/Phonebook
 date: 2015
 labels:
-  - C++
+  - Java
 summary: A phonebook, using hash tables, made for ICS 212.
 ---
 

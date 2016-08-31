@@ -2,7 +2,7 @@
   "basics": {
     "name": "Anthony Kuloloia",
     "label": "Student",
-    "picture": "akuloloia.github.io/images/AAEAAQAAAAAAAAlxAAAAJDJkYzQyOWY4LTM3MWYtNDczNC1hNGM2LTQ3ZWEyMTBjNGE1Mg.jpg",
+    "picture": "https://akuloloia.github.io/images/AAEAAQAAAAAAAAlxAAAAJDJkYzQyOWY4LTM3MWYtNDczNC1hNGM2LTQ3ZWEyMTBjNGE1Mg.jpg",
     "email": "akuloloi@hawaii.edu",
     "phone": "808-366-9157",
     "website": "https://akuloloia.github.io",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "akuloloia",
-        "url": "http://akuloloia.github.io"
+        "url": "https://github.com/akuloloia"
       },
       {
         "network": "linkedin",

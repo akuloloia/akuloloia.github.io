@@ -8,8 +8,6 @@ labels:
   - Javascript
 ---
 
-##WOD Can I Do?
-
 Javascript is an amazing programming language.  Collectively, I've had about a days worth of experience with it and I'm truly impressed with what I'm able to do!  You are no longer required to specify variable types, the == and === operators are very useful and I enjoy how simple it is to make functions.  From a software engineering standpoint, I believe this extremely practical.  Code becomes easier to read and manage, while the inherent properties of other powerful languages, such as C++, remains constant .
 
 Subjecting individuals to atheltic software engineering is genius!  Within a controlled environment, this method of teaching induces a specific amount of stress, similar to what one may experience in the workplace, and prepares us to work under pressure.  Though it may seem difficult at first, through repetition, the amount of improvement witnessed is quite marvelous.  For example, on my first attempt of the second Euler problem, it took 8 minutes and 19 seconds to complete the attempt.  However, each subsequent try was significantly quicker.  

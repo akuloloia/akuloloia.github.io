@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/sha.png
+image: images/sha.png
 title: SHA-1 Encryption
 permalink: projects/SHA-1
 date: 2015

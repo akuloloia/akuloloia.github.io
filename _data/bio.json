@@ -1,48 +1,37 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Anthony Kuloloia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "akuloloia.github.io/images/AAEAAQAAAAAAAAlxAAAAJDJkYzQyOWY4LTM3MWYtNDczNC1hNGM2LTQ3ZWEyMTBjNGE1Mg.jpg",
+    "email": "akuloloi@hawaii.edu",
+    "phone": "808-366-9157",
+    "website": "https://akuloloia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "akuloloia",
+        "url": "http://akuloloia.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Anthony Kuloloia",
+        "url": "https://www.linkedin.com/in/anthonykuloloia"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Network Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Penetration Testing"
       ]
     },
     {
@@ -63,10 +52,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -75,9 +61,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
@@ -95,23 +79,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "DECA",
+      "position": "Teller",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and exchange money",
+        "Manage and designate tasks front end cashiers"
       ]
     },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2014-01-01",
+      "endDate": "2015-05-15",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -121,43 +105,30 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Mililani High School",
+      "website": "http://www.mililanihs.org/",
+      "position": "Network leader",
+      "startDate": "2014-04-01",
+      "endDate": "2014-06-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teaching students how to harden a computer ",
+        "Providing guidance to solve difficult problems"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Semi Finalist",
+      "date": "2012",
+      "awarder": "CyberPatriots",
+      "summary": "Our team managed to place 7th, overall, in a nation-wide competition."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2012",
+      "awarder": "Skills USA",
+      "summary": "I achieved second place for a networking competition."
     }
   ],
   "references": [

@@ -10,9 +10,7 @@ labels:
 summary: I developed a program that runs SHA-1 encryption on input files.
 ---
 
-<div class="">
-  <img class="ui image" src="../images/sha.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/sha.png">
 
 SHA-1 encryption is a hash function that takes a file, arragnes the data in a randomized manner and outputs a value in a specific number range.  This hash value is 160 bits long and is widely used as a cryptographic encryption function for storing passwords, error detection and comparing files.
 

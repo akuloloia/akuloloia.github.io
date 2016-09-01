@@ -10,7 +10,7 @@ labels:
 summary: I developed a program that runs SHA-1 encryption on input files.
 ---
 
-<div class="ui small rounded images">
+<div class="">
   <img class="ui image" src="../images/sha.png">
 </div>
 

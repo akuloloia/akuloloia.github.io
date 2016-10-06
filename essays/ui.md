@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Hephaestus of HTML
-date: 2016-10-6
+date: 2016-10-06
 labels:
   - Configuration Management
   - UI Frameworks

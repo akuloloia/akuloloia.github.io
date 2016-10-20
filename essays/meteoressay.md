@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Sweet or Sour?
+title: Is Meteor Sweet or Sour?
 date: 2016-10-20
 labels:
   - Meteor

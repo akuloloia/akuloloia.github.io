@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/get-good/get-good.github.io/raw/master/images/calendar-page.png
+image: images/calendar-page.png
 title: The Next Big Thing
 date: 2016-12-10
 labels:

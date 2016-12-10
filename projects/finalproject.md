@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/calendar-page.png
 title: The Next Big Thing
-permalink: projects/cotton
+permalink: projects/app
 date: 2016-12-10
 labels:
   - Meteor

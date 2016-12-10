@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: The Next Big Thing
+image: https://github.com/get-good/get-good.github.io/raw/master/images/calendar-page.png
 date: 2016-12-10
 labels:
   - Meteor

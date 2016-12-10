@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 title: The Next Big Thing
 date: 2016-12-10
 labels:

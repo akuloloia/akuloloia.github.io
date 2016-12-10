@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/calendar-page.png
+image: images/calendar-page2.png
 title: The Next Big Thing
 permalink: projects/app
 date: 2016-12-10
